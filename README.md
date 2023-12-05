@@ -5,6 +5,8 @@
 
 This is a repository for Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
 
+[DEMO](https://octo-hyper.vercel.app/)
+
 [VIDEO TUTORIAL](https://www.youtube.com/watch?v=ZbX4Ok9YX94)
 
 Key Features:
